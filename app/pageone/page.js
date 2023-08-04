@@ -6,7 +6,7 @@ const pageone = () => {
   <div className="flex">
     <SideBar />
     <div>
-      <h1 className="text-white">Page one</h1>
+      <h1 className="text-white">Page One</h1>
     </div>
   </div>
   )
